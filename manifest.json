@@ -1,6 +1,6 @@
 {
-    "name": "smart_academy_landing_page",
-    "short_name": "smart_academy_landing_page",
+    "name": "baanzai_landing_page",
+    "short_name": "baanzai_landing_page",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
